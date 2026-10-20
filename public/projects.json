@@ -1,7 +1,7 @@
 [
   {
     "title": "DachaClicker",
-    "description": "DachaClicker",
+    "description": "«Дача кликер» — solo-проект casual-игры в жанре фермерского кликера. Игрок зарабатывает монеты кликами по урожаю, занимает слоты на поле, разблокирует морковь, капусту, помидоры и перец, покупает апгрейды и проходит цепочку квестов. Прогресс сохраняется локально, поддерживаются пассивный заработок, автосбор и начисление за время offline.\n\nТехнологии\n\nДвижок: Cocos Creator 3.8.8, TypeScript\nПлатформа: Web Mobile (HTML5), сборка под каталог Яндекс Игр\nДанные: JSON-баланс (BALANCE_DATA.json), версионирование сейва (v4) с миграциями\nИнтеграции: Yandex Games SDK (инициализация, LoadingAPI.ready, rewarded/fullscreen-реклама, лидерборд, Gameplay API)\nЛокализация: ru/en через LocalizationManager и язык из SDK",
     "github": "https://github.com/Alex-Grigorovich/DachaClicker",
     "image": "https://raw.githubusercontent.com/Alex-Grigorovich/Portfolio/main/public/images/1792424977819_1785335034.png"
   }
