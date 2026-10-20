@@ -4,5 +4,11 @@
     "description": "«Дача кликер» — solo-проект casual-игры в жанре фермерского кликера. Игрок зарабатывает монеты кликами по урожаю, занимает слоты на поле, разблокирует морковь, капусту, помидоры и перец, покупает апгрейды и проходит цепочку квестов. Прогресс сохраняется локально, поддерживаются пассивный заработок, автосбор и начисление за время offline.\n\nТехнологии\n\nДвижок: Cocos Creator 3.8.8, TypeScript\nПлатформа: Web Mobile (HTML5), сборка под каталог Яндекс Игр\nДанные: JSON-баланс (BALANCE_DATA.json), версионирование сейва (v4) с миграциями\nИнтеграции: Yandex Games SDK (инициализация, LoadingAPI.ready, rewarded/fullscreen-реклама, лидерборд, Gameplay API)\nЛокализация: ru/en через LocalizationManager и язык из SDK",
     "github": "https://github.com/Alex-Grigorovich/DachaClicker",
     "image": "https://raw.githubusercontent.com/Alex-Grigorovich/Portfolio/main/public/images/1792424977819_1785335034.png"
+  },
+  {
+    "title": "Arrow Game",
+    "description": "ArrowPixi (Arrow Game PixiJS)\nРоль: solo / full-stack клиент (геймдев + интеграция платформы)\nСтек: PixiJS 8.8, TypeScript 5.7, Vite 6, Capacitor 8 (опционально Android)\n\nСуть геймплея: поле 4×4 с одной из 27 несимметричных фигур; на клетках — цветные стрелки четырёх направлений. Игрок одним тапом запускает движение: свободный путь — стрелка улетает с поля; путь с препятствием — останавливается вплотную; упёрлась в соседа — лёгкая «дрожь» без штрафа. Уровни усложняются формой, скоростью анимации и парными препятствиями; рейтинг 1–3 звезды зависит от времени.",
+    "github": "https://github.com/Alex-Grigorovich/ArrowGamePixiJS",
+    "image": "https://raw.githubusercontent.com/Alex-Grigorovich/Portfolio/main/public/images/1792486856265_Снимок_экрана_2026-10-20_115733.png"
   }
 ]
